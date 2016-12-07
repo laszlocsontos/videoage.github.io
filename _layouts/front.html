@@ -10,7 +10,7 @@
   {% include services.html %}
   {% include feature.html %}
   {% include quote.html %}
-  {% include contact.html %}
+  {% if site.social-bar=='true' %}{% include contact.html %}{% endif %}
   {% include footer.html %}
   {% include scripts.html %}
 </body>
