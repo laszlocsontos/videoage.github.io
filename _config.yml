@@ -27,7 +27,7 @@ theme-dark: '#222'
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 
 #make social-bar true if you wanna see the social follow section
-social-bar: 'true'
+social-bar: 'false'
 
 social:
   - title: twitter
