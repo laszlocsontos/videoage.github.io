@@ -6,7 +6,10 @@ description: A jekyll template for landing pages, portfolio and blogging
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://videoage.github.io" # the base hostname & protocol for your site
+
+#the embed code of the you tube video ex. https://www.youtube.com/watch?v=ePbKGoIGAXY the embed is:
 embed-video: ePbKGoIGAXY
+
 #Google Ad Sense Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: #2973388149
 data-ad-client: #ca-pub-9204963049240271
