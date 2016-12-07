@@ -42,11 +42,11 @@ $theme-secondary: #fdc539 ;
 $theme-dark: #222;*/
 
 // variables.less link and gradient background
-$head-primary: #7b4397 ;
-$head-secondary: #dc2430 ;
-$theme-primary: #fdcc52 ;
-$theme-secondary: #fdc539 ;
-$theme-dark: #222;
+$head-primary: {{ site.head-primary }} ;
+$head-secondary: {{ site.head-secondary }} ;
+$theme-primary: {{ site.theme-primary }} ;
+$theme-secondary: {{ site.theme-secondary }} ;
+$theme-dark: {{ site.theme-dark }} ;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
