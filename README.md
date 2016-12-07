@@ -1,8 +1,8 @@
 #New Age Jekyll theme
 =========================
 
-## If you are a company and you're going to use the blog: 
-1. contact bootstrap start up and ask.
+## If you are a company and you're going to use the blog:
+1. contact start bootstrap up and ask.
 2. contact me because there is to remove some useless part.
 
 Jekyll theme based on [New Age bootstrap theme ](https://startbootstrap.com/template-overviews/new-age/)
@@ -16,7 +16,7 @@ View this jekyll theme in action [here](https://jekynewage.github.io/)
 This Jekyll template was created to develop, landing pages, squeeze pages, portfolio and blog or all the above.
 
 ###I integrated analytical tools and marketing such as:
-- Google Ad Words
+- Google Ad Sense
 - Google analytics
 - Disqus comment system
 - Add This social sharing
