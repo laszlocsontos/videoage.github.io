@@ -20,10 +20,10 @@ theme-secondary: '#fdc539'
 theme-dark: '#222'
 
 
-site.email-btn-bg: 'black'
-site.email-btn-txt: 'white'
-site.email-btnhv-bg: 'black'
-site.email-btnhv-txt: 'white'
+site.email-btn-bg: black
+site.email-btn-txt: white
+site.email-btnhv-bg: black
+site.email-btnhv-txt: white
 
 #Google Ad Sense Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: #2973388149
