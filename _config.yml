@@ -10,8 +10,8 @@ url: "https://videoage.github.io" # the base hostname & protocol for your site
 #the embed code of the you tube video ex. https://www.youtube.com/watch?v=ePbKGoIGAXY the embed code is:
 embed-video: ePbKGoIGAXY
 embed-image: 'https://placehold.it/500x500'
-secondary-title: '#000000' #the title text color of the secondary color sections (with'' for #hexadecimal value)
-secondary-text: grey #the text color of the secondary color sections
+secondary-title: grey #the title text color of the secondary color sections (with'' for #hexadecimal value)
+secondary-text: '#000000' #the text color of the secondary color sections
 
 head-primary: '#7b4397'
 head-secondary: '#dc2430'
