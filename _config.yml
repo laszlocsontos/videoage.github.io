@@ -9,7 +9,7 @@ url: "https://videoage.github.io" # the base hostname & protocol for your site
 
 #the embed code of the you tube video ex. https://www.youtube.com/watch?v=ePbKGoIGAXY the embed code is:
 embed-video: ePbKGoIGAXY
-
+embed-image: 'http://placehold.it/350x150'
 #Google Ad Sense Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: #2973388149
 data-ad-client: #ca-pub-9204963049240271
