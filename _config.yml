@@ -22,8 +22,6 @@ theme-dark: '#222'
 
 email-btn-bg: black
 email-btn-txt: white
-email-btnhv-bg: black
-email-btnhv-txt: white
 
 #Google Ad Sense Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: #2973388149
