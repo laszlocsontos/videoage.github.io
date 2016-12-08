@@ -142,3 +142,23 @@
 
 /* MailChimp Form Embed Code - Horizontal Super Slim - 12/16/2015 v10.7
 Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
+
+
+#mc_embed_signup .button {
+  color: white !important;
+  border-color: black !important;
+  border: 1px solid !important;
+  background-color: black !important;
+}
+#mc_embed_signup .button:hover, #mc_embed_signup .button:focus, #mc_embed_signup .button:active, #mc_embed_signup .button.active {
+  color: black !important;
+  background-color: white !important;
+  border-color: black !important;
+}
+
+#mc_embed_signup .button {
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif' !important;
+  text-transform: uppercase !important;
+  letter-spacing: 2px !important;
+  border-radius: 300px !important;
+}
