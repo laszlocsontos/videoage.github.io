@@ -19,10 +19,6 @@ theme-primary: '#fdcc52'
 theme-secondary: '#fdc539'
 theme-dark: '#222'
 
-
-email-btn-bg: black
-email-btn-txt: white
-
 #Google Ad Sense Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: #2973388149
 data-ad-client: #ca-pub-9204963049240271
