@@ -145,10 +145,10 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 
 
 #mc_embed_signup .button {
-  color: white !important;
-  border-color: black !important;
+  color: {{ site.email-btn-txt }} !important;
+  border-color: {{ site.email-btn-txt }} !important;
   border: 1px solid !important;
-  background-color: black !important;
+  background-color: {{ site.email-btn-bg }} !important;
 }
 #mc_embed_signup .button:hover, #mc_embed_signup .button:focus, #mc_embed_signup .button:active, #mc_embed_signup .button.active {
   color: black !important;
