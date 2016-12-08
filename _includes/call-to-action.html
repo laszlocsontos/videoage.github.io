@@ -19,7 +19,11 @@
                      }
                      #mc_embed_signup .button:hover, #mc_embed_signup .button:focus, #mc_embed_signup .button:active, #mc_embed_signup .button.active {
                        color: white !important;
-                       background-color: yellow !important;
+                       -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)" !important;       /* IE 8 */
+                       filter: alpha(opacity=50) !important;  /* IE 5-7 */
+                       -moz-opacity: 0.5 !important;          /* Netscape */
+                       -khtml-opacity: 0.5 !important;        /* Safari 1.x */
+                       opacity: 0.5 !important;
                        border-color: black !important;
                      }
 
@@ -30,7 +34,7 @@
                        border-radius: 300px !important;
                      }
 
-                     
+
 
 
                 </style>
