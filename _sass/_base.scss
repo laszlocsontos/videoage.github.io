@@ -465,9 +465,9 @@ footer {
 
 
 .btn-outline {
-  color: black;
+  color: black !important;
   border-color: black;
-  background-color: $theme-primary;
+  background-color: $theme-primary !important;
   border: 1px solid;
   &:hover, &:focus, &:active, &.active {
     color: white;
