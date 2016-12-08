@@ -10,9 +10,14 @@ url: "https://videoage.github.io" # the base hostname & protocol for your site
 #the embed code of the you tube video ex. https://www.youtube.com/watch?v=ePbKGoIGAXY the embed code is:
 embed-video: ePbKGoIGAXY
 embed-image: 'https://placehold.it/500x500'
-secondary-title: black
+secondary-title: '#000000' #the title text color of the secondary color sections (with'' for #hexadecimal value)
 secondary-text: grey #the text color of the secondary color sections
 
+head-primary: '#7b4397'
+head-secondary: '#dc2430'
+theme-primary: '#fdcc52'
+theme-secondary: '#fdc539'
+theme-dark: '#222'
 
 #Google Ad Sense Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: #2973388149
@@ -24,11 +29,7 @@ addthis_id: ra-5644da281510c62f #you need addthis account to use the left sharin
 disqus_account: #jeky-new-age put here your disquss short name (only for blog version of the theme)
 
 
-head-primary: '#7b4397'
-head-secondary: '#dc2430'
-theme-primary: '#fdcc52'
-theme-secondary: '#fdc539'
-theme-dark: '#222'
+
 
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
