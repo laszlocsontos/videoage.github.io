@@ -13,6 +13,8 @@ embed-image: 'https://placehold.it/500x500'
 secondary-title: grey #the title text color of the secondary color sections (with'' for #hexadecimal value)
 secondary-text: '#000000' #the text color of the secondary color sections
 
+call-to-action-primary: '#eb9129'
+call-to-action-secondary: '#c75419'
 head-primary: '#7b4397'
 head-secondary: '#dc2430'
 theme-primary: '#fdcc52'
