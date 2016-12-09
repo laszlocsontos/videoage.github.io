@@ -1,0 +1,23 @@
+<!-- Begin MailChimp Signup Form -->
+
+<div id="mc_embed_signup-{{ include.id }}">
+<form action="http://{{ site.mailchimp-server-name }}/subscribe/post?u={{ site.mailchimp-user-id }}&amp;id={{ site.mailchimp-list-id }}" method="post" id="mc-form-{{ include.id }}" name="mc-embedded-subscribe-form-{{ include.id }}" class="validate" target="_blank" novalidate>
+    <div class="form-group form-inline">
+        <div class="form-group">
+            <input type="text" name="EMAIL" class="form-control" id="mc-email-{{ include.id }}" placeholder="Email address">
+        </div>
+        <div class="form-group">
+            <input type="email" name="FNAME" class="form-control" id="mc-firstName-{{ include.id }}" aria-describedby="emailHelp" placeholder="What's your name?">
+        </div>
+    </div>
+    <div class="form-group row">
+            <button id="mc-submit-{{ include.id }}" type="submit" class="btn btn-outline btn-sm">Get The Free Report</button>
+    </div>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="b_{{ site.mailchimp-user-id }}_{{ site.mailchimp-list-id }}" tabindex="-1" value="">
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
