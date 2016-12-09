@@ -53,9 +53,10 @@ google_analytics: "UA-86331249-1"
 addthis_id: ra-5644da281510c62f #you need addthis account to use the left sharing box http://www.addthis.com/
 disqus_account: #jeky-new-age put here your disquss short name (only for blog version of the theme)
 
-
-
-
+# MailChimp integration
+mailchimp-server-name: "laszlocsontos.us11.list-manage.com"
+mailchimp-user-id: "f3b2ff475471eb8e1e81afb3d"
+mailchimp-list-id: "185d002cb6"
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 
