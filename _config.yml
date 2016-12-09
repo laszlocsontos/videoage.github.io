@@ -12,26 +12,26 @@ embed-video: ePbKGoIGAXY
 embed-image: 'https://placehold.it/500x500'
 
 # Pink-Purge color scheme (Default)
+call-to-action-primary: '#eb9129'
+call-to-action-secondary: '#c75419'
+head-primary: '#7b4397'
+head-secondary: '#dc2430'
+theme-primary: '#fdcc52'
+theme-secondary: '#fdc539'
+theme-dark: '#222'
+secondary-title: '#4c4c4c' #the title text color of the secondary color sections (with'' for #hexadecimal value)
+secondary-text: '#000000' #the text color of the secondary color sections
+
+# Grey color scheme
 #call-to-action-primary: '#eb9129'
 #call-to-action-secondary: '#c75419'
-#head-primary: '#7b4397'
-#head-secondary: '#dc2430'
-#theme-primary: '#fdcc52'
-#theme-secondary: '#fdc539'
+#head-primary: '#333638'
+#head-secondary: '#777d82'
+#theme-primary: '#ededed'
+#theme-secondary: '#ededee'
 #theme-dark: '#222'
 #secondary-title: grey #the title text color of the secondary color sections (with'' for #hexadecimal value)
 #secondary-text: '#000000' #the text color of the secondary color sections
-
-# Grey color scheme
-call-to-action-primary: '#eb9129'
-call-to-action-secondary: '#c75419'
-head-primary: '#333638'
-head-secondary: '#777d82'
-theme-primary: '#ededed'
-theme-secondary: '#ededee'
-theme-dark: '#222'
-secondary-title: grey #the title text color of the secondary color sections (with'' for #hexadecimal value)
-secondary-text: '#000000' #the text color of the secondary color sections
 
 # Green-Grey color scheme
 #call-to-action-primary: '#eb9129'
