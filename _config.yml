@@ -10,35 +10,39 @@ url: "https://videoage.github.io" # the base hostname & protocol for your site
 #the embed code of the you tube video ex. https://www.youtube.com/watch?v=ePbKGoIGAXY the embed code is:
 embed-video: ePbKGoIGAXY
 embed-image: 'https://placehold.it/500x500'
+
+# Pink-Purge color scheme (Default)
+#call-to-action-primary: '#eb9129'
+#call-to-action-secondary: '#c75419'
+#head-primary: '#7b4397'
+#head-secondary: '#dc2430'
+#theme-primary: '#fdcc52'
+#theme-secondary: '#fdc539'
+#theme-dark: '#222'
+#secondary-title: grey #the title text color of the secondary color sections (with'' for #hexadecimal value)
+#secondary-text: '#000000' #the text color of the secondary color sections
+
+# Grey color scheme
+call-to-action-primary: '#eb9129'
+call-to-action-secondary: '#c75419'
+head-primary: '#333638'
+head-secondary: '#777d82'
+theme-primary: '#ededed'
+theme-secondary: '#ededee'
+theme-dark: '#222'
 secondary-title: grey #the title text color of the secondary color sections (with'' for #hexadecimal value)
 secondary-text: '#000000' #the text color of the secondary color sections
 
-# Pink-Purge color scheme (Default)
-call-to-action-primary: '#eb9129'
-call-to-action-secondary: '#c75419'
-head-primary: '#7b4397'
-head-secondary: '#dc2430'
-theme-primary: '#fdcc52'
-theme-secondary: '#fdc539'
-theme-dark: '#222'
-
-# Grey color scheme
+# Green-Grey color scheme
 #call-to-action-primary: '#eb9129'
 #call-to-action-secondary: '#c75419'
-#head-primary: '#333638'
-#head-secondary: '#777d82'
-#theme-primary: '#ededed'
-#theme-secondary: '#ededee'
+#head-primary: '#5BC1AF'
+#head-secondary: '#3d8276'
+#theme-primary: '#4c4c4c'
+#theme-secondary: '#4c4c40'
 #theme-dark: '#222'
-
-# Blue-Green color scheme
-#call-to-action-primary: '#eb9129'
-#call-to-action-secondary: '#c75419'
-#head-primary: '#485468'
-#head-secondary: '#506e9e'
-#theme-primary: '#9fd891'
-#theme-secondary: '#91c989'
-#theme-dark: '#222'
+#secondary-title: white #the title text color of the secondary color sections (with'' for #hexadecimal value)
+#secondary-text: lightgrey #the text color of the secondary color sections
 
 #Google Ad Sense Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: #2973388149
